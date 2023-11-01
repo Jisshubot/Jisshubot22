@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/mr_danish_khan" target="blank"><img src="https://img.shields.io/twitter/follow/mr_danish_khan?logo=twitter&style=for-the-badge" alt="mr_danish_khan" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/skill-learner21](https://github.com/skill-learner21)
+- 👨‍💻 All of my projects are available at [https://github.com/JISSHU BOT](https://github.com/Jisshubot)
 
 - 📫 How to reach me **zishanzishan11221@gmail.com**
 
-- 📄 Know about my experiences [https://t.me/ThE_RoYaL_sQuAd](https://t.me/ThE_RoYaL_sQuAd)
+- 📄 Know about my experiences [https://t.me/ThE_RoYaL_sQuAd]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
