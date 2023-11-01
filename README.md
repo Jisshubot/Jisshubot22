@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisshubot&show_icons=true&locale=en" alt="jisshubot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisshubot&" alt="jisshubot" /></p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Cad.gif">
+<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/Cad.gif](https://media.tenor.com/b8o4QL3NxV4AAAAC/sound-wave-waves.gif)https://media.tenor.com/b8o4QL3NxV4AAAAC/sound-wave-waves.gif">
