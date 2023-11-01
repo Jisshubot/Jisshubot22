@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm ZISNAN KHAN</h1>
-<img align="right" alt="left" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
