@@ -22,11 +22,12 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Zishankhsn"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Jisshubot " /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisshubot&show_icons=true&locale=en&layout=compact" alt="jisshubot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisshubot&show_icons=true&locale=en" alt="jisshubot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jisshubot&" alt="jisshubot" /></p>
+![](https://github-readme-stats.vercel.app/api?username=weebzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=weebzone&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=weebzone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <img align="center" alt="Coding" width="400" 
   src="https://media.tenor.com/b8o4QL3NxV4AAAAC/sound-wave-waves.gif">
