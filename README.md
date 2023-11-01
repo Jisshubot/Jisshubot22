@@ -1,12 +1,12 @@
  ![logo](https://graph.org/file/9456b1e97fb6c1e403792.jpg)
-<h1 align="center">Hi 👋, I'm Mr_ZISHAN</h1>
+<h1 align="center">Hi 👋, I'm Mr_ZISHAN KHAN</h1>
 <h3 align="center">A Passionate In Ethical Hacking&Cyber Security From India.</h3>
 
 <img align="right" alt="Hacking" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skill-learner21&label=Profile%20views&color=0e75b6&style=flat" alt="skill-learner21" /> </p>
 
-<p align="left"> <a href="https://twitter.com/mr_danish_khan" target="blank"><img src="https://img.shields.io/twitter/follow/mr_danish_khan?logo=twitter&style=for-the-badge" alt="mr_danish_khan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/mr_Zishan khan" target="blank"><img src="https://img.shields.io/twitter/follow/mr_Zishan khan?logo=twitter&style=for-the-badge" alt="mr_Zishan khan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JISSHU BOT](https://github.com/Jisshubot)
 
